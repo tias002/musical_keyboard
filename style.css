@@ -100,6 +100,9 @@ button.activated{
         margin:2px;
         height:150px;
     }
+    .title{
+        font-size:1.2rem;
+    }
 }
 @media (max-width:300px) {
     .keys{
